@@ -1,0 +1,13 @@
+C:\Users\Andres Vasquez\Desktop\Proyecto_SO\Proyecto_SO\bin\Proyecto_SO.dll.config
+C:\Users\Andres Vasquez\Desktop\Proyecto_SO\Proyecto_SO\bin\Proyecto_SO.dll
+C:\Users\Andres Vasquez\Desktop\Proyecto_SO\Proyecto_SO\bin\Proyecto_SO.pdb
+C:\Users\Andres Vasquez\Desktop\Proyecto_SO\Proyecto_SO\obj\Debug\Proyecto_SO.csprojResolveAssemblyReference.cache
+C:\Users\Andres Vasquez\Desktop\Proyecto_SO\Proyecto_SO\obj\Debug\Proyecto_SO.dll
+C:\Users\Andres Vasquez\Desktop\Proyecto_SO\Proyecto_SO\obj\Debug\Proyecto_SO.pdb
+C:\Users\rrivera\Documents\Downloads\proyecto bueno SO2\bin\Proyecto_SO.dll.config
+C:\Users\rrivera\Documents\Downloads\proyecto bueno SO2\bin\Proyecto_SO.dll
+C:\Users\rrivera\Documents\Downloads\proyecto bueno SO2\bin\Proyecto_SO.pdb
+C:\Users\rrivera\Documents\Downloads\proyecto bueno SO2\obj\Debug\Proyecto_SO.csproj.CoreCompileInputs.cache
+C:\Users\rrivera\Documents\Downloads\proyecto bueno SO2\obj\Debug\Proyecto_SO.dll
+C:\Users\rrivera\Documents\Downloads\proyecto bueno SO2\obj\Debug\Proyecto_SO.pdb
+C:\Users\rrivera\Documents\Downloads\proyecto bueno SO2\obj\Debug\Proyecto_SO.csprojAssemblyReference.cache
